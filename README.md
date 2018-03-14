@@ -1,5 +1,5 @@
 # coworkers
-An simple DSL in Prolog to implement workflows as trees of coroutines
+A simple DSL in Prolog to implement workflows as trees of coroutines
 
 workflow('release_project', Props) :-
 
